@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sayak Sarkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="200" src="./Coder.gif">
+<img align="right" alt="coding" width="200" src="./hello.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayaksarkar02&label=Profile%20views&color=0e75b6&style=flat" alt="sayaksarkar02" /> </p>
 
